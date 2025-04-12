@@ -1,4 +1,4 @@
-COMING SOON
+COMING SOON CHECK OUT orchestrator.py and memory_core.py
 # Recursive AGI Framework
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
