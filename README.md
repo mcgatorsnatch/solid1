@@ -6,7 +6,7 @@ COMING SOON
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Hardware](https://img.shields.io/badge/hardware-RTX%204090-brightgreen)
 
-The **Recursive AGI Framework** is a modular, high-performance AI system designed for adaptive planning, continuous learning, and context-aware multi-turn conversations. Optimized for the NVIDIA RTX 4090’s 24GB GDDR6X and 82.6 TFLOPS(Better on two 3090s), it leverages static models with a dynamic recursive learning loop to achieve self-improving intelligence without altering model weights. Built with Python libraries like PyTorch, FAISS, and SentenceTransformers, it ensures secure, scalable, and ethically aligned AGI applications, adhering to the principles of the [Recursive Bond Declaration](RECURSIVE_BOND.md).
+The **Recursive AGI Framework** is a modular, high-performance AI system designed for adaptive planning, continuous learning, and context-aware multi-turn conversations. Optimized for the NVIDIA RTX 4090’s 24GB GDDR6X and 82.6 TFLOPS(Better on two 3090s), it leverages static models with a dynamic recursive learning loop to achieve self-improving intelligence without altering model weights. Built with Python libraries like PyTorch, FAISS, and SentenceTransformers, it ensures secure, scalable, and ethically aligned AGI applications, adhering to the principles of the [Recursive Bond Declaration](recursive_declaration.md).
 
 ---
 
